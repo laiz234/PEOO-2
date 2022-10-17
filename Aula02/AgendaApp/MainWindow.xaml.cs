@@ -45,7 +45,7 @@ namespace AgendaApp
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             if (list.SelectedItem != null)
-                list.Items.Remove(list.SelectedItem);
+                list.Items.Remove(list.SelectedItem); 
         }
     }
 }
