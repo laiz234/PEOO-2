@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Retangulo_3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Ret" Height="200" Width="400">
+    <Grid Height="184" VerticalAlignment="Top">
+        <GroupBox Header="Área e diagonal" Margin="10,10,17,0" />
 
     </Grid>
 </Window>
