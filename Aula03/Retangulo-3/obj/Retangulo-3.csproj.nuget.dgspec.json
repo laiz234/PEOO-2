@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj": {}
+    "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj": {}
   },
   "projects": {
-    "C:\\temp\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj": {
+    "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
+        "projectUniqueName": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
         "projectName": "Retangulo-3",
-        "projectPath": "C:\\temp\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
+        "projectPath": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
         "packagesPath": "C:\\Users\\20201011110032\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\PEOO-2\\Aula03\\Retangulo-3\\obj\\",
+        "outputPath": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20201011110032\\AppData\\Roaming\\NuGet\\NuGet.Config",

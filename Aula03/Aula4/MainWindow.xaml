@@ -1,0 +1,23 @@
+﻿<Window x:Class="Aula4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula4"
+        mc:Ignorable="d"
+        Title="Abastecimento" Height="400" Width="300">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="21,35,0,0" Text="Km Rodados" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="21,71,0,0" Text="Valor Pago R$" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="21,105,0,0" Text="Valor litro R$" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button x:Name="buttom" Content="Calcular" Margin="21,145,20,210" Click="Botãocalulcar_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,207,0,0" Text="Km / Litro" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,245,0,0" Text="R$ / KM" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_4" Text="" TextWrapping="Wrap" Margin="150,207,20,156" />
+        <TextBox x:Name="txt_5" Text="" TextWrapping="Wrap" Margin="150,243,20,122" />
+        <TextBox x:Name="txt_2" Text="" TextWrapping="Wrap" Margin="150,68,20,295"/>
+        <TextBox x:Name="txt_1" Text="" TextWrapping="Wrap" Margin="150,35,20,327"/>
+        <TextBox x:Name="txt_3" Text="" TextWrapping="Wrap" Margin="150,102,20,261"/>
+
+    </Grid>
+</Window>
