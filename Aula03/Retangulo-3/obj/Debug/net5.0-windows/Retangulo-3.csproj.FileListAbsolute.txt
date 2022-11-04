@@ -42,3 +42,9 @@ C:\Users\20201011110032\Source\Repos\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-
 C:\Users\20201011110032\Source\Repos\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\ref\Retangulo-3.dll
 C:\Users\20201011110032\Source\Repos\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\Retangulo-3.pdb
 C:\Users\20201011110032\Source\Repos\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\Retangulo-3.genruntimeconfig.cache
+C:\Users\20201011110032\Source\Repos\laiz234\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\Retangulo-3.csproj.AssemblyReference.cache
+C:\Users\20201011110032\Source\Repos\laiz234\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\20201011110032\Source\Repos\laiz234\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\Retangulo-3_MarkupCompile.cache
+C:\Users\20201011110032\Source\Repos\laiz234\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\Retangulo-3.dll
+C:\Users\20201011110032\Source\Repos\laiz234\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\ref\Retangulo-3.dll
+C:\Users\20201011110032\Source\Repos\laiz234\PEOO-2\Aula03\Retangulo-3\obj\Debug\net5.0-windows\Retangulo-3.pdb

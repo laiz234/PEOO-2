@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
+      "projectUniqueName": "C:\\Users\\20201011110032\\Source\\Repos\\laiz234\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
       "projectName": "Retangulo-3",
-      "projectPath": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
+      "projectPath": "C:\\Users\\20201011110032\\Source\\Repos\\laiz234\\PEOO-2\\Aula03\\Retangulo-3\\Retangulo-3.csproj",
       "packagesPath": "C:\\Users\\20201011110032\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20201011110032\\Source\\Repos\\PEOO-2\\Aula03\\Retangulo-3\\obj\\",
+      "outputPath": "C:\\Users\\20201011110032\\Source\\Repos\\laiz234\\PEOO-2\\Aula03\\Retangulo-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20201011110032\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

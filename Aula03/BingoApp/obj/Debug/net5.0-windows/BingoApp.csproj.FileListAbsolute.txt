@@ -1,0 +1,3 @@
+C:\Users\20201011110032\source\repos\laiz234\PEOO-2\Aula03\BingoApp\obj\Debug\net5.0-windows\BingoApp.csproj.AssemblyReference.cache
+C:\Users\20201011110032\source\repos\laiz234\PEOO-2\Aula03\BingoApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\20201011110032\source\repos\laiz234\PEOO-2\Aula03\BingoApp\obj\Debug\net5.0-windows\BingoApp_MarkupCompile.cache

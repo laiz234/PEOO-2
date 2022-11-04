@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20201011110032\\source\\repos\\PEOO-2\\Aula02\\AgendaApp\\AgendaApp.csproj",
+      "projectUniqueName": "C:\\Users\\20201011110032\\Source\\Repos\\laiz234\\PEOO-2\\Aula02\\AgendaApp\\AgendaApp.csproj",
       "projectName": "AgendaApp",
-      "projectPath": "C:\\Users\\20201011110032\\source\\repos\\PEOO-2\\Aula02\\AgendaApp\\AgendaApp.csproj",
+      "projectPath": "C:\\Users\\20201011110032\\Source\\Repos\\laiz234\\PEOO-2\\Aula02\\AgendaApp\\AgendaApp.csproj",
       "packagesPath": "C:\\Users\\20201011110032\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20201011110032\\source\\repos\\PEOO-2\\Aula02\\AgendaApp\\obj\\",
+      "outputPath": "C:\\Users\\20201011110032\\Source\\Repos\\laiz234\\PEOO-2\\Aula02\\AgendaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20201011110032\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
