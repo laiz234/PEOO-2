@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\20201011110032\source\repos\laiz234\PEOO-2\Aula03\BingoApp\obj\Release\net5.0-windows\
+C:\Users\20201011110032\source\repos\laiz234\PEOO-2\Aula03\BingoApp\obj\Debug\net5.0-windows\
 BingoApp
 none
 false
-TRACE;RELEASE;NET;NET5_0;NETCOREAPP
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\20201011110032\source\repos\laiz234\PEOO-2\Aula03\BingoApp\App.xaml
 11407045341
 

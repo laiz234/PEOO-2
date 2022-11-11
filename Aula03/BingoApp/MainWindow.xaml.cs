@@ -24,5 +24,38 @@ namespace BingoApp
         {
             InitializeComponent();
         }
+
+        private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+
+            txtNumBolas.Text = slider.Value.ToString();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            b = new Bingo();
+            b.Iniciar(int.Parse(txtNumBolas.Text));
+            btnInicar.IsEnabled = false;
+            btnSortear.IsEnabled = true;
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            int x = btnInicar.Proximo();
+            if (x == -1)
+            {
+                txtNum.Text = "Fim";
+                btnInicar.IsEnabled = true;
+                btnSortear.IsEnabled = false;
+            }
+            else
+            {
+                txtNum.Text = x.ToString();
+                string s = "";
+                foreach (int i in b.Sorteados())
+                    s = s + i " - ";
+                txtSorteados.Text = s;
+            }
+        }
     }
 }

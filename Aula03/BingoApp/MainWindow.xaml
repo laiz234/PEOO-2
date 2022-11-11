@@ -13,27 +13,27 @@
             <RowDefinition Height="2*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="1*"/>
-            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
         </Grid.ColumnDefinitions>
-        <!-- Comentário -->
-        <GroupBox Header="Números de Bolas" Margin="4" Grid.ColumnSpan="2" >
+        <GroupBox Header="Número de Bolas" Margin="4" Grid.ColumnSpan="2">
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="40" />
-                    <ColumnDefinition Width="30" />
-                    <ColumnDefinition Width="30" />
+                    <ColumnDefinition Width="4*" />
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition Width="3*" />
                 </Grid.ColumnDefinitions>
-                <Slider Name="slider" VerticalAlignment="Center" Margin="4" Minimum="10" Maximum="100" Value="50" IsSnapToTickEnabled="True" ValueChanged="Slider_ValueChanged" TickFrequency="" VerticalContentAlignment="Center" />
-                <TextBox Name="textnumebola" Text="50" Grid.Column="1" Margin="4" />
-                <Button Content="Iniciar" Grid.Column="2" />
+                <TextBox Name="txtNumBolas" IsReadOnly="True" Margin="4" Grid.Column="1" Text="50" VerticalAlignment="Center" />
+                <Slider Name="slider" Margin="4" VerticalAlignment="Center" Minimum="10" Maximum="100" Value="50"
+                        ValueChanged="Slider_ValueChanged" TickFrequency="1" IsSnapToTickEnabled="True" />
+                <Button Name="btnInicar" Margin="4" Grid.Column="2" Content="Iniciar" Click="Button_Click" />
             </Grid>
         </GroupBox>
-        <Button Content="Sortear" Margin="4" Grid.Row="1" />
-        <TextBox Text="35" Grid.Row="1" Grid.Column="1" Margin="4" FontSize="72" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
-        <GroupBox Header="Sorteados" Grid.Row="2" Grid.ColumnSpan="2" Margin="4">
-            <TextBox Text="1 - 2  - 3 - 4" />
+        <Button Name="btnSortear" Content="Sortear" Grid.Row="1" Margin="4" Click="Button_Click_1" />
+        <TextBox IsReadOnly="True" Margin="4" Text="0" Grid.Row="1" Grid.Column="1" FontSize="72" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <GroupBox Name="txtSorteados" Header="Sorteados" Margin="4" Grid.Row="2" Grid.ColumnSpan="2">
+            <TextBox IsReadOnly="True" Text="1 - 2 - 3 - 4" />
         </GroupBox>
-
+        <!-- Comentário -->
     </Grid>
 </Window>
